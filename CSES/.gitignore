@@ -1,0 +1,7 @@
+# 1) Ignore all .exe files anywhere in the repo
+*.exe
+
+# 2) Ignore the entire tests directory (and everything under it)
+tests/
+
+*.out
